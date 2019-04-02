@@ -1,0 +1,21 @@
+{
+  "title": "Home",
+  "content": "intro.md",
+  "gallery": [
+    {
+      "title": "Framed Installation",
+      "copy": "Master Studio, Bloomberg Center",
+      "image": "../images/gallery/studio.jpg"
+    },
+    {
+      "title": "Framed Installation",
+      "copy": "Hallway, Bloomberg Center",
+      "image": "../images/gallery/hall.jpg"
+    },
+    {
+      "title": "Digital Display",
+      "copy": "Second Floor, Bloomberg Center",
+      "image": "../images/gallery/screen.jpg"
+    }
+  ]
+}
